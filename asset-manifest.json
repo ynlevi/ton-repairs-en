@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ton-repairs-en.git/static/css/main.38a9f062.css",
-    "main.js": "/ton-repairs-en.git/static/js/main.8c49f82f.js",
-    "static/media/mainVideo.mp4": "/ton-repairs-en.git/static/media/mainVideo.09be69c8185e82c667e9.mp4",
-    "static/media/iphone-camera.jpg": "/ton-repairs-en.git/static/media/iphone-camera.71537449f9fb5b0a64f1.jpg",
-    "static/media/ipad.jpg": "/ton-repairs-en.git/static/media/ipad.d0717b790060f20d043c.jpg",
-    "static/media/apple-watch.jpg": "/ton-repairs-en.git/static/media/apple-watch.e8e3ec85289c507c13fa.jpg",
-    "static/media/macbook.jpg": "/ton-repairs-en.git/static/media/macbook.d1d532c477a3ae141069.jpg",
-    "static/media/airpods.jpg": "/ton-repairs-en.git/static/media/airpods.96bb93c76ec59fd9bd9e.jpg",
-    "static/media/iphone.jpg": "/ton-repairs-en.git/static/media/iphone.725427b83a7d9952b519.jpg",
-    "index.html": "/ton-repairs-en.git/index.html",
-    "main.38a9f062.css.map": "/ton-repairs-en.git/static/css/main.38a9f062.css.map",
-    "main.8c49f82f.js.map": "/ton-repairs-en.git/static/js/main.8c49f82f.js.map"
+    "main.css": "/ton-repairs-en/static/css/main.38a9f062.css",
+    "main.js": "/ton-repairs-en/static/js/main.477ac614.js",
+    "static/media/mainVideo.mp4": "/ton-repairs-en/static/media/mainVideo.09be69c8185e82c667e9.mp4",
+    "static/media/iphone-camera.jpg": "/ton-repairs-en/static/media/iphone-camera.71537449f9fb5b0a64f1.jpg",
+    "static/media/ipad.jpg": "/ton-repairs-en/static/media/ipad.d0717b790060f20d043c.jpg",
+    "static/media/apple-watch.jpg": "/ton-repairs-en/static/media/apple-watch.e8e3ec85289c507c13fa.jpg",
+    "static/media/macbook.jpg": "/ton-repairs-en/static/media/macbook.d1d532c477a3ae141069.jpg",
+    "static/media/airpods.jpg": "/ton-repairs-en/static/media/airpods.96bb93c76ec59fd9bd9e.jpg",
+    "static/media/iphone.jpg": "/ton-repairs-en/static/media/iphone.725427b83a7d9952b519.jpg",
+    "index.html": "/ton-repairs-en/index.html",
+    "main.38a9f062.css.map": "/ton-repairs-en/static/css/main.38a9f062.css.map",
+    "main.477ac614.js.map": "/ton-repairs-en/static/js/main.477ac614.js.map"
   },
   "entrypoints": [
     "static/css/main.38a9f062.css",
-    "static/js/main.8c49f82f.js"
+    "static/js/main.477ac614.js"
   ]
 }
