@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ton-repairs-en/static/css/main.38a9f062.css",
-    "main.js": "/ton-repairs-en/static/js/main.477ac614.js",
+    "main.js": "/ton-repairs-en/static/js/main.0d6b9ee2.js",
     "static/media/mainVideo.mp4": "/ton-repairs-en/static/media/mainVideo.09be69c8185e82c667e9.mp4",
     "static/media/iphone-camera.jpg": "/ton-repairs-en/static/media/iphone-camera.71537449f9fb5b0a64f1.jpg",
     "static/media/ipad.jpg": "/ton-repairs-en/static/media/ipad.d0717b790060f20d043c.jpg",
@@ -11,10 +11,10 @@
     "static/media/iphone.jpg": "/ton-repairs-en/static/media/iphone.725427b83a7d9952b519.jpg",
     "index.html": "/ton-repairs-en/index.html",
     "main.38a9f062.css.map": "/ton-repairs-en/static/css/main.38a9f062.css.map",
-    "main.477ac614.js.map": "/ton-repairs-en/static/js/main.477ac614.js.map"
+    "main.0d6b9ee2.js.map": "/ton-repairs-en/static/js/main.0d6b9ee2.js.map"
   },
   "entrypoints": [
     "static/css/main.38a9f062.css",
-    "static/js/main.477ac614.js"
+    "static/js/main.0d6b9ee2.js"
   ]
 }
